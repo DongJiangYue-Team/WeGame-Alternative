@@ -7,7 +7,9 @@
 当前版本：V4.2.6.0 | 更新日期：2021-11-04 | 文件大小：15GB
 
 ![https://lol.qq.com/download.shtml](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/1.png)
-  
+
+
+
 ### 【客户端高速下载器-推荐】
 
 **高速下载器**
@@ -15,7 +17,9 @@
 https://down.qq.com/lol/dltoos/LOL_V4.2.6.0_FULL_0_tgod_signed.exe
   
 ![官方高速下载器](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/2.png)
-  
+
+
+
 ### 【官方直链下载-手动式】
 
 **搭配IDM下载器下载**
@@ -63,6 +67,8 @@ http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.009
 
 ![导入文本文件](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/4.png)
 
+
+
 ### 【安装包md5信息】
 
 00 LOL_V4.2.6.0_FULL.exe（所有文件下载完成后运行此文件安装)
@@ -75,6 +81,7 @@ size: 3501640 byte
 
 version_id: V4.2.6.0
 
+
 01 LOL_V4.2.6.0_FULL.7z.001
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.001
@@ -84,6 +91,7 @@ md5: d99f036a166306b70a4eb6ca85925503
 size: 1992294400 byte
 
 version_id: V4.2.6.0
+
 
 02 LOL_V4.2.6.0_FULL.7z.002
 
@@ -95,6 +103,7 @@ size: 1992294400 byte
 
 version_id: V4.2.6.0
 
+
 03 LOL_V4.2.6.0_FULL.7z.003
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.003
@@ -104,6 +113,7 @@ md5: 8be78e446aad5ce9664ce377a97b085c
 size: 1992294400 byte
 
 version_id: V4.2.6.0
+
 
 04 LOL_V4.2.6.0_FULL.7z.004
 
@@ -115,6 +125,7 @@ size: 1992294400 byte
 
 version_id: V4.2.6.0
 
+
 05 LOL_V4.2.6.0_FULL.7z.005
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.005
@@ -123,6 +134,7 @@ md5: b0e3e62835290ec5c3cec507dd954166
 size: 1992294400 byte
 
 version_id: V4.2.6.0
+
 
 06 LOL_V4.2.6.0_FULL.7z.006
 
@@ -134,6 +146,7 @@ size: 1992294400 byte
 
 version_id: V4.2.6.0
 
+
 07 LOL_V4.2.6.0_FULL.7z.007
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.007
@@ -144,6 +157,7 @@ size: 1992294400 byte
 
 version_id: V4.2.6.0
 
+
 08 LOL_V4.2.6.0_FULL.7z.008
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.008
@@ -153,6 +167,7 @@ md5: 5de02e744a7fe905073a54a2e0498b35
 size: 1992294400 byte
 
 version_id: V4.2.6.0
+
 
 09 LOL_V4.2.6.0_FULL.7z.009
 
