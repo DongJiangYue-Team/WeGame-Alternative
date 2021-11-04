@@ -3,7 +3,9 @@
 #2021年11月4日  
   
 【LOL最新客户端版本信息】  
+  
 当前版本：V4.2.6.0 | 更新日期：2021-11-04 | 文件大小：15GB  
+  
 ![https://lol.qq.com/download.shtml](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/1.png)
   
 【客户端高速下载器-推荐】  
