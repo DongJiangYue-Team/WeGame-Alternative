@@ -9,7 +9,7 @@
 ![https://lol.qq.com/download.shtml](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/1.png)
   
 ### 【客户端高速下载器-推荐】  
-高速下载器  
+**高速下载器** 
 https://down.qq.com/lol/dltoos/LOL_V4.2.6.0_FULL_0_tgod_signed.exe  
   
 ![官方高速下载器](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/2.png)
