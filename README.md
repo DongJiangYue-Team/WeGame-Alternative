@@ -16,13 +16,21 @@ https://down.qq.com/lol/dltoos/LOL_V4.2.6.0_FULL_0_tgod_signed.exe
 搭配IDM下载器下载  
 1. 修改UA：IDM菜单栏-下载-选项-下载-手动添加下载任务时使用的用户代理（UA）  
 UA代码
+```
+  
 Mozilla/4.0 (compatible; MSIE 9.11; Windows NT 10.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; .TDCH 7.0;)
+  
+```
   
 ![修改UA](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/3.png)
   
 IDM原UA  
-下载完成后手动改回IDM原UA
+下载完成后手动改回IDM原UA  
+```
+  
 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+  
+```
   
 2. IDM菜单栏-任务-导入-从文本文件导入  
 复制以下代码，新建TXT文本文档导入IDM
