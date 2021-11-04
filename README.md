@@ -72,7 +72,7 @@ http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.009
 
 ### 【安装包md5信息】
 
-00 LOL_V4.2.6.0_FULL.exe（所有文件下载完成后运行此文件安装)
+**00 LOL_V4.2.6.0_FULL.exe（所有文件下载完成后运行此文件安装)**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.exe  
 
@@ -83,7 +83,7 @@ size: 3501640 byte
 version_id: V4.2.6.0
 
 
-01 LOL_V4.2.6.0_FULL.7z.001
+**01 LOL_V4.2.6.0_FULL.7z.001**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.001
 
@@ -94,7 +94,7 @@ size: 1992294400 byte
 version_id: V4.2.6.0
 
 
-02 LOL_V4.2.6.0_FULL.7z.002
+**02 LOL_V4.2.6.0_FULL.7z.002**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.002
 
@@ -105,7 +105,7 @@ size: 1992294400 byte
 version_id: V4.2.6.0
 
 
-03 LOL_V4.2.6.0_FULL.7z.003
+**03 LOL_V4.2.6.0_FULL.7z.003**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.003
 
@@ -116,7 +116,7 @@ size: 1992294400 byte
 version_id: V4.2.6.0
 
 
-04 LOL_V4.2.6.0_FULL.7z.004
+**04 LOL_V4.2.6.0_FULL.7z.004**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.004
 
@@ -127,7 +127,7 @@ size: 1992294400 byte
 version_id: V4.2.6.0
 
 
-05 LOL_V4.2.6.0_FULL.7z.005
+**05 LOL_V4.2.6.0_FULL.7z.005**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.005
 md5: b0e3e62835290ec5c3cec507dd954166
@@ -137,7 +137,7 @@ size: 1992294400 byte
 version_id: V4.2.6.0
 
 
-06 LOL_V4.2.6.0_FULL.7z.006
+**06 LOL_V4.2.6.0_FULL.7z.006**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.006
 
@@ -148,7 +148,7 @@ size: 1992294400 byte
 version_id: V4.2.6.0
 
 
-07 LOL_V4.2.6.0_FULL.7z.007
+**07 LOL_V4.2.6.0_FULL.7z.007**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.007
 
@@ -159,7 +159,7 @@ size: 1992294400 byte
 version_id: V4.2.6.0
 
 
-08 LOL_V4.2.6.0_FULL.7z.008
+**08 LOL_V4.2.6.0_FULL.7z.008**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.008
 
@@ -170,7 +170,7 @@ size: 1992294400 byte
 version_id: V4.2.6.0
 
 
-09 LOL_V4.2.6.0_FULL.7z.009
+**09 LOL_V4.2.6.0_FULL.7z.009**
 
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.009
 
