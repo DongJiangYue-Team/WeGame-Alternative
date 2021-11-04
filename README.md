@@ -26,6 +26,8 @@ Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
   
 2. IDM菜单栏-任务-导入-从文本文件导入  
 复制以下代码，新建TXT文本文档导入IDM
+ 
+```
   
 <
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.exe
@@ -39,6 +41,8 @@ http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.007
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.008
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.009
 >
+  
+```
   
 ![导入文本文件](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/4.png)
   
