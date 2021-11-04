@@ -1,20 +1,20 @@
 # LOL-Client-Download-Link  
+ 
+## 2021年11月4日  
   
-#2021年11月4日  
-  
-【LOL最新客户端版本信息】  
+### 【LOL最新客户端版本信息】  
   
 当前版本：V4.2.6.0 | 更新日期：2021-11-04 | 文件大小：15GB  
   
 ![https://lol.qq.com/download.shtml](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/1.png)
   
-【客户端高速下载器-推荐】  
+### 【客户端高速下载器-推荐】  
 高速下载器  
 https://down.qq.com/lol/dltoos/LOL_V4.2.6.0_FULL_0_tgod_signed.exe  
   
 ![官方高速下载器](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/2.png)
   
-【官方直链下载-手动式】  
+### 【官方直链下载-手动式】  
 搭配IDM下载器下载  
 1. 修改UA：IDM菜单栏-下载-选项-下载-手动添加下载任务时使用的用户代理（UA）  
 UA代码
@@ -56,7 +56,7 @@ http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.009
   
 ![导入文本文件](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/4.png)
   
-【安装包md5信息】  
+### 【安装包md5信息】  
 00 LOL_V4.2.6.0_FULL.exe（所有文件下载完成后运行此文件安装）  
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.exe  
 md5: 39e924f58fdab1352841a643f1fae0ad  
