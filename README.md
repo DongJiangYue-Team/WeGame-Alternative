@@ -40,7 +40,7 @@ http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.008
 http://down.qq.com/lol/full/4260/LOL_V4.2.6.0_FULL.7z.009
 >
   
-![导入文本文件]https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/4.png
+![导入文本文件](https://github.com/DongJiangYue-Team/LOL-Client-Download-Link/blob/main/img/4.png)
   
 【安装包md5信息】  
 00 LOL_V4.2.6.0_FULL.exe（所有文件下载完成后运行此文件安装）  
