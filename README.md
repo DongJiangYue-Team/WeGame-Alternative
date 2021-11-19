@@ -1,4 +1,25 @@
 # LOL-Client-Download-Link
+## 更新日志
+
+20211118
+客户端下载地址同步更新至V4.2.6.3版本
+
+```
+
+<
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.exe
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.001
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.002
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.003
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.004
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.005
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.006
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.007
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.008
+http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.009
+>
+
+```
 
 ## 2021年11月4日
 
