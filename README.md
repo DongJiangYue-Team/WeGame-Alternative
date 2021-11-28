@@ -1,7 +1,25 @@
 # LOL-Client-Download-Link
 ## 更新日志
 
-20211118
+### 20211128
+客户端补丁V4.2.6.2-V4.2.6.3
+
+```
+
+<
+http://down.qq.com/lol/patch/4263/LOL_V4.2.6.2-V4.2.6.3_PATCH.exe
+http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.001
+http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.002
+http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.003
+http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.004
+http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.005
+http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.006
+http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.007
+>
+
+```
+
+### 20211118
 客户端下载地址同步更新至V4.2.6.3版本
 
 ```
