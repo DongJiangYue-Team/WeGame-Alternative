@@ -1,45 +1,24 @@
-# LOL-Client-Download-Link
-## 更新日志
+# CN_LOL_DNF-Client-Patch-Download
+# 国服LOL和DNF客户端及补丁下载
 
-### 20211118
-客户端补丁V4.2.6.2-V4.2.6.3
+## 使用方法-2021年11月29日
 
-```
+通过idm导入.ef2文件，无需手动修改idm ua即可顺利完成下载，操作步骤与导入txt文件差不多，但更简单
 
-<
-http://down.qq.com/lol/patch/4263/LOL_V4.2.6.2-V4.2.6.3_PATCH.exe
-http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.001
-http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.002
-http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.003
-http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.004
-http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.005
-http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.006
-http://down.qq.com/lol/patch/4263/LOL_V4.2.6.3_PATCH.7z.007
->
+### LOL客户端下载 .ef2文件
+[LOL-Client-ef2](idm-ef2/LOL/Client-Latestversion/)
 
-```
+### LOL补丁下载 .ef2文件
+[LOL-Patch-ef2](idm-ef2/LOL/Patch-Latestversion/)
 
-### 20211118
-客户端下载地址同步更新至V4.2.6.3版本
+### DNF客户端下载 .ef2文件
+[DNF-Client-ef2](idm-ef2/DNF/Client-Latestversion/)
 
-```
+### DNF补丁下载 .ef2文件
+[DNF-Patch-ef2](idm-ef2/DNF/Client-Latestversion/)
 
-<
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.exe
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.001
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.002
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.003
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.004
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.005
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.006
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.007
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.008
-http://down.qq.com/lol/full/4263/LOL_V4.2.6.3_FULL.7z.009
->
 
-```
-
-## 2021年11月4日
+## 使用方法（以LOL为例）-2021年11月4日
 
 ### 【LOL最新客户端版本信息】
 
