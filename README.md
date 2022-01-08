@@ -3,7 +3,7 @@
 
 ## 使用方法
 
-使用[IDM]软件(https://www.internetdownloadmanager.com/)导入.ef2文件下载
+使用软件[IDM](https://www.internetdownloadmanager.com/)导入.ef2文件下载
 
 ### LOL客户端下载 .ef2文件
 [LOL-Client-ef2](idm-ef2/LOL/Client-Latestversion/)
