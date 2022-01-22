@@ -15,4 +15,4 @@
 [DNF-Client-ef2](idm-ef2/DNF/Client-Latestversion/)
 
 ### DNF补丁下载 .ef2文件
-[DNF-Patch-ef2](idm-ef2/DNF/Client-Latestversion/)
+[DNF-Patch-ef2](idm-ef2/DNF/Patch-Latestversion/)
