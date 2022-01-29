@@ -5,6 +5,11 @@
 
 使用软件[IDM](https://www.internetdownloadmanager.com/)导入.ef2文件下载。
 
+| Game Download | IDM | aria2 |
+| :---: | :---: | :---: | 
+| League of Legends (CN) | [IDM-LOL-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/LOL_Client_Download_V1.0.0) | [aria2-LOL_Client_Download](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/LOL_Client_Download_V1.0.0) |
+
+
 ### LOL客户端下载
 [IDM-LOL-Client-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/LOL_Client_Download_V1.0.0)
 
