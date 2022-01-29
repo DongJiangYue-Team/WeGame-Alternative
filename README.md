@@ -1,5 +1,5 @@
-# CN_LOL_DNF-Client-Patch-Download
-# 国服LOL和DNF客户端及补丁下载
+# CN_LOL_DNF_CF_QQSpeed-Client-Patch-Download
+# 国服LOL,DNF,CF,QQSpeed客户端及补丁下载
 
 ## 下载方法一
 
@@ -16,6 +16,18 @@
 
 ### DNF补丁下载 .ef2文件
 [DNF-Patch-ef2](idm-ef2/DNF/Patch-Latestversion/)
+
+### CF客户端下载 .ef2文件
+[CF-Client-ef2](idm-ef2/CF/Client-Latestversion/)
+
+### CF补丁下载 .ef2文件
+[CF-Patch-ef2](idm-ef2/CF/Patch-Latestversion/)
+
+### QQSpeed客户端下载 .ef2文件
+[QQSpeed-Client-ef2](idm-ef2/QQSpeed/Client-Latestversion/)
+
+### QQSpeed补丁下载 .ef2文件
+[QQSpeed-Patch-ef2](idm-ef2/QQSpeed/Patch-Latestversion/)
 
 ## 下载方法二
 
@@ -34,3 +46,15 @@
 
 ### aria2 DNF补丁下载
 [aria2-DNF_Patch_Download](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/DNF_Patch_Download_V1.0.0)
+
+### aria2 CF客户端下载
+[aria2-CF_Client_Download](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/CF_Client_Download_V1.0.0)
+
+### aria2 CF补丁下载
+[aria2-CF_Patch_Download](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/CF_Patch_Download_V1.0.0)
+
+### aria2 QQSpeed客户端下载
+[aria2-QQSpeed_Client_Download](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/QQSpeed_Client_Download_V1.0.0)
+
+### aria2 QQSpeed补丁下载
+[aria2-QQSpeed_Patch_Download](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/QQSpeed_Patch_Download_V1.0.0)
