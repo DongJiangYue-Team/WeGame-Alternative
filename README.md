@@ -5,28 +5,28 @@
 
 使用软件[IDM](https://www.internetdownloadmanager.com/)导入.ef2文件下载。
 
-### LOL客户端下载 .ef2文件
+### LOL客户端下载
 [IDM-LOL-Client-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/LOL_Client_Download_V1.0.0)
 
-### LOL补丁下载 .ef2文件
+### LOL补丁下载
 [IDM-LOL-Patch-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/LOL_Client_Download_V1.0.0)
 
-### DNF客户端下载 .ef2文件
+### DNF客户端下载
 [IDM-DNF-Client-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/DNF_Patch_Download_V1.0.0)
 
-### DNF补丁下载 .ef2文件
+### DNF补丁下载
 [IDM-DNF-Patch-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/DNF_Patch_Download_V1.0.0)
 
-### CF客户端下载 .ef2文件
+### CF客户端下载
 [IDM-CF-Client-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/CF_Client_Download_V1.0.0)
 
-### CF补丁下载 .ef2文件
+### CF补丁下载
 [IDM-CF-Patch-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/CF_Client_Download_V1.0.0)
 
-### QQSpeed客户端下载 .ef2文件
+### QQSpeed客户端下载
 [IDM-QQSpeed-Client-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/QQSpeed_Patch_Download_V1.0.0)
 
-### QQSpeed补丁下载 .ef2文件
+### QQSpeed补丁下载
 [IDM-QQSpeed-Patch-ef2](https://github.com/DongJiangYue-Team/CN_LOL_DNF-Client-Patch-Download/releases/tag/QQSpeed_Patch_Download_V1.0.0)
 
 ## 下载方法二
