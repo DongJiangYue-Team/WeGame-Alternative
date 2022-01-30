@@ -1,5 +1,4 @@
-# WeGame Alternative
-# Game Download, Game Login
+# WeGame Alternative - Game Download, Game Login
 
 ## Game Download Method 1
 
