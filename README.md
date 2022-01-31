@@ -25,3 +25,8 @@
 | Dungeon and Fighter (CN) | [V34.1.1.6](https://github.com/DongJiangYue-Team/WeGame-Alternative/releases/tag/DNF_Patch_Download_V1.0.0) | [V34.1.1.6](https://github.com/DongJiangYue-Team/WeGame-Alternative/releases/tag/DNF_Patch_Download_V1.0.0) |
 | CrossFire (CN) | [V5.9.4-V5.9.5](https://github.com/DongJiangYue-Team/WeGame-Alternative/releases/tag/CF_Patch_Download_V1.0.0) | [V5.9.4-V5.9.5](https://github.com/DongJiangYue-Team/WeGame-Alternative/releases/tag/CF_Patch_Download_V1.0.0) |
 | QQSpeed (CN) | [Ver18090—Ver18096](https://github.com/DongJiangYue-Team/WeGame-Alternative/releases/tag/QQSpeed_Patch_Download_V1.0.0) | [Ver18090—Ver18096](https://github.com/DongJiangYue-Team/WeGame-Alternative/releases/tag/QQSpeed_Patch_Download_V1.0.0) |
+
+| Game Login | Origin |
+| :---: | :---: |
+| League of Legends (CN) | [V1.0.0](https://github.com/DongJiangYue-Team/WeGame-Alternative/releases/tag/LOL_Origin_Login_V1.0.0) |
+| CrossFire (CN) | [V1.0.0](https://github.com/DongJiangYue-Team/WeGame-Alternative/releases/tag/CF_Origin_Login_V1.0.0) |
